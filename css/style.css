@@ -24,11 +24,13 @@ rem: medida relativa al root
 html{
     font-size: 62.5%;
     box-sizing: border-box;
+
 }
 
 body{
     font-size: 16px;
     font-family: 'Krub',sans-serif;
+    background-image: linear-gradient(to top, var(--gray-light),);
 }
 
 *,
